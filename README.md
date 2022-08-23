@@ -1,5 +1,5 @@
 ## Hello, World! 👋 <img width="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
-### I'm Jess, welcome to my GitHub! :octocat: 
+### I'm Jess, welcome to my GitHub profile! :octocat: 
 
 
 <div align="center">
