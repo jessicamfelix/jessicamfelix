@@ -1,4 +1,4 @@
-## Hello, World! 👋 <img width="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
+## Hello, World! <img width="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
 ### I'm Jess, welcome to my GitHub profile! :octocat: 
 
 
