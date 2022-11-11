@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="https://thumbs.gfycat.com/ShadyQueasyIzuthrush-size_restricted.gif"
+    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="[https://thumbs.gfycat.com/ShadyQueasyIzuthrush-size_restricted.gif](https://cdn-images.win.gg/wp/uploads/2021/11/halloween-lofi-1.jpg)"
 >
 </div>
   
