@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="[https://user-images.githubusercontent.com/99706540/186020297-daaf3bc5-cea3-435c-b1c6-7b59ef1b4627.png](https://play.google.com/store/apps/details?id=com.wastickerappsmemoji.memojistickers.emojiiphone.stickersforwhatsapp&hl=pt&gl=US)"
+    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="https://thumbs.gfycat.com/ShadyQueasyIzuthrush-size_restricted.gif"
 >
 </div>
   
