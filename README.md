@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="file:///C:/Users/Jessica/Pictures/Imagens/lofi_generator.png"
+    <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="https://camo.githubusercontent.com/ef078fa8732113b0f25d787cb69203f329389fc12cd247a1102056afd82023ab/68747470733a2f2f63646e2d696d616765732e77696e2e67672f77702f75706c6f6164732f323032312f31312f68616c6c6f7765656e2d6c6f66692d312e6a7067"
 >
 </div>
   
