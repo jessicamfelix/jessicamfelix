@@ -4,11 +4,11 @@
 
 <div align="left">
   <a href="https://github.com/jessicamfelix">
-      <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1694984412/IMG_0416_wxewj4.jpg"
->
 </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicamfelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamfelix&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" alt="Jess-pic" height="232" style="border-radius:50px;" src="https://res.cloudinary.com/petraiosklytometis/image/upload/v1694984412/IMG_0416_wxewj4.jpg"
+>
 </div>
 
   
